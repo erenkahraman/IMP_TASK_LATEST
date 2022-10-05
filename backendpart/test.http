@@ -1,0 +1,9 @@
+post http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "email": "eren@outlook.com"
+    "password": "123456"
+    "fullName": "Eren KAHRAMAN"
+    "userName":"eren"
+}
